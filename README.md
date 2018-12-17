@@ -4,7 +4,7 @@
 
 ## In progress
 
-* [The Soul of a New Machine](https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine)
+* [The Soul of a New Machine](/notes/The_Soul_of_a_New_Machine.md)
 
 ## Pending
 
