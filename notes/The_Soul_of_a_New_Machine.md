@@ -5,6 +5,8 @@ This book has some good parts and I reflected to many things described inside of
 but it could be much better if it wasn't that repetitive. Some biographies felt redundant.
 Overall, I have no regrets of reading it.
 
+Now I know who [Tom West](https://en.wikipedia.org/wiki/Tom_West) is.
+
 For me, this book was something like an inspiration source to me. This is why most quotations from the book can look like they don't make a lot of sense. They do, to me.
 
 {[wikipedia](https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine)}
