@@ -1,10 +1,10 @@
 ## Completed
 
-(This section is empty.)
+* [The Soul of a New Machine](/notes/The_Soul_of_a_New_Machine.md)
 
 ## In progress
 
-* [The Soul of a New Machine](/notes/The_Soul_of_a_New_Machine.md)
+
 
 ## Pending
 
