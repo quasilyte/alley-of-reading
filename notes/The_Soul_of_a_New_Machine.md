@@ -13,3 +13,5 @@ For me, this book was something like an inspiration source to me. This is why mo
 > A classmate at Amherst remembered West as "smart — off the charts — but also naive. No, not exactly naive, but like a boy — uh, romantic. He believed in pie in the sky."
 
 > "I thought I'd get a really dumb job. I found out dumb jobs don't work. You come home too tired to do anything," he said. He remembered a seemingly endless succession of meetings out of which only the dullest, most cautious decisions could emerge. He remembered watching himself play with his thumbs beneath the edges of conference tables for hours and hours. Near the end of his time at RCA he got to work on projects that interested him. He saw a few patents registered in his name. He became what he'd pretended to be, a real computer engineer; but by then, RCA had lost a fortune trying to compete with IBM and was getting out of computers. The time to change jobs was upon West again.
+
+> The fact of a string of previous successes, though, could imply the imminence of failure. "Realistically, you gotta lose one sometime," he said with a small smile. 
