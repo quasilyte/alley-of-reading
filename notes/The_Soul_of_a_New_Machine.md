@@ -1,6 +1,7 @@
 # The Soul of a New Machine
 
-Rating: 6/10.
+A book by Tracy Kidder. My rating for it is 6/10.
+
 This book has some good parts and I reflected to many things described inside of it,
 but it could be much better if it wasn't that repetitive. Some biographies felt redundant.
 Overall, I have no regrets of reading it.
