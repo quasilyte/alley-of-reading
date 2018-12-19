@@ -4,7 +4,7 @@
 
 ## In progress
 
-
+* [Find Your Why](/notes/Find_Your_Why.md)
 
 ## Pending
 
