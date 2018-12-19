@@ -11,7 +11,7 @@ For me, this book was something like an inspiration source to me. This is why mo
 
 {[wikipedia](https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine)}
 
-## Quotations
+## Notes
 
 > "Not everything worth doing is worth doing well" Tom West
 
