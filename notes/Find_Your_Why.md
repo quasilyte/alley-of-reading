@@ -6,3 +6,4 @@ A book by Simon Sinek.
 
 ## Notes
 
+> Your vision is only actionable if you say it out loud. If you keep it to yourself, it will remain a figment of your imagination.
