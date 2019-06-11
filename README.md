@@ -4,6 +4,10 @@
 
 ## In progress
 
+* [Emotional Intelligence](/notes/Emotional_Intelligence.md)
+
+## Abandoned
+
 * [Find Your Why](/notes/Find_Your_Why.md)
 
 ## Pending
